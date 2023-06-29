@@ -1,5 +1,5 @@
-# Name of the project
-UI
+# UI
+
 
 ## Contents
 

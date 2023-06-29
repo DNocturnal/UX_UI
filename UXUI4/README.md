@@ -1,5 +1,5 @@
-# Name of the project
-UX-проектирование
+# UX-проектирование
+
 
 ## Contents
 
